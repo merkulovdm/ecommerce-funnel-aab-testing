@@ -1,4 +1,3 @@
-# ecommerce-funnel-aab-testing
 # E-Commerce Funnel Analysis & A/A/B Testing
 
 Identifying conversion drop-off points across the user journey and validating experiment group homogeneity before A/B testing.
